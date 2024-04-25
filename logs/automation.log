@@ -1,0 +1,36 @@
+17:34:58.631 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+17:34:58.839 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+17:34:58.872 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+17:35:10.314 [main] INFO  testCases.TC_002_LoginTest - **** starting TC_002_LoginTest ****
+17:35:10.315 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+17:35:15.429 [main] INFO  testCases.TC_002_LoginTest - clicked myaccount link on the home page..
+17:35:20.920 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+17:35:21.092 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+17:35:26.319 [main] INFO  testCases.TC_002_LoginTest - Enterd the password
+17:35:32.067 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+17:35:32.106 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+17:35:32.107 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest ****
+17:53:50.125 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+17:53:50.230 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+17:53:50.258 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+17:54:01.653 [main] INFO  testCases.TC_002_LoginTest - **** starting TC_002_LoginTest ****
+17:54:01.653 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+17:54:06.749 [main] INFO  testCases.TC_002_LoginTest - clicked myaccount link on the home page..
+17:54:12.331 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+17:54:12.343 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+17:54:17.567 [main] INFO  testCases.TC_002_LoginTest - Enterd the password
+17:54:23.360 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+17:54:23.406 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+17:54:23.407 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest ****
+17:56:31.329 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+17:56:31.424 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+17:56:31.452 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+17:56:42.863 [main] INFO  testCases.TC_002_LoginTest - **** starting TC_002_LoginTest ****
+17:56:42.863 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+17:56:47.933 [main] INFO  testCases.TC_002_LoginTest - clicked myaccount link on the home page..
+17:56:53.418 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+17:56:53.420 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+17:56:58.639 [main] INFO  testCases.TC_002_LoginTest - Enterd the password
+17:57:04.360 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+17:57:04.400 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+17:57:04.401 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest ****
